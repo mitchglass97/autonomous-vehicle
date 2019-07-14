@@ -246,19 +246,6 @@ void ultrasonicCallback(const std_msgs::Int32::ConstPtr& msg)
 	left_danger = false;
 	left_warning = false;
   }
-
-  //Debugging outputs
-  /*if(right_danger) {
-    ROS_INFO("Right Danger set");
-  } else if(right_warning) {
-    ROS_INFO("Right Warning set");
-  }
-
-  if(left_danger) {
-    ROS_INFO("Left Danger set");
-  } else if(left_warning) {
-    ROS_INFO("Left Warning set");
-  }*/
 }
 
 //==============================================UTILITY FUNCTIONS=========================================================
