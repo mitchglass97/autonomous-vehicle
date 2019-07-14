@@ -13,10 +13,10 @@ The ultrasonic sensors are mounted on the sides of the go-kart, and their purpos
 # Technology
 
 RPLIDAR-A3: LIDAR sensor  
-HC-SR04: Ultrasonic sensors . 
+HC-SR04: Ultrasonic sensors  
 Arduino Mega: Microcontroller board used to handle sensor data  
-Dell Inspiron Micro Desktop i3050: Onboard computer . 
-SparkFun Bluetooth Mate Gold: Bluetooth sensor (start and stop with a phone app) . 
+Dell Inspiron Micro Desktop i3050: Onboard computer  
+SparkFun Bluetooth Mate Gold: Bluetooth sensor (start and stop with a phone app)  
 
 # The Team
 
